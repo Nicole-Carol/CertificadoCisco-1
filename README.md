@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Título do Projeto
+## 📌 Certificado de N1
 
 > Breve linha de destaque ou slogan técnico do projeto.
 
@@ -18,7 +18,7 @@
 
 ### 👥 Alunos
 
-* [Integrante 1](https://www.linkedin.com/in/.../)
+* [Diogo Henrique ](https://www.linkedin.com/in/.../)
 * [Integrante 2](https://www.linkedin.com/in/.../)
 * [Integrante 3](https://www.linkedin.com/in/.../)
 * [Integrante 4](https://www.linkedin.com/in/.../)
