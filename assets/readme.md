@@ -1,13 +1,31 @@
+# Certificado - Cisco Networking Academy
 
-Clique no lápis à direita para editar essa página.
+Este repositório serve para armazenar e exibir o meu certificado de conclusão do curso **"Cisco Networking Academy: Computer Hardware Basics"**.
 
-Coloque nessa pasta assets, todas as figuras que vão aparecer na sua documentação.
+---
 
-Use os comandos abaixo para citar as imagens no seu doc.
+## Estrutura do Repositório
 
+* `document/`: Contém a versão original do certificado em formato PDF.
+* `assets/`: Armazena a imagem do certificado (.pdf) e outros recursos visuais, como o logo da Cisco.
+* `README.md`: Este arquivo, que detalha o propósito e a estrutura do repositório.
 
-<img src="" width="200">
+---
 
-coloque o comando entre < >
-o parânetro src indica o path da figura
-O parâmetro "width=200" indica o tamanho da figura.
+## Sobre o Curso
+
+O curso "Computer Hardware Basics" aborda os conceitos fundamentais sobre hardware de computadores, incluindo componentes internos, montagem e manutenção.
+
+---
+
+### Autora
+
+**Nicole Caroline**
+Engenharia de Software
+
+---
+
+## Visualização do Certificado
+
+Para visualizar o certificado em formato PDF, [clique aqui](document/certificadoCisco.pdf).
+
