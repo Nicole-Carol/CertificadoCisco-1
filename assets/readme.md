@@ -27,5 +27,5 @@ Engenharia de Software
 
 ## Visualização do Certificado
 
-Para visualizar o certificado em formato PDF, [clique aqui](document/certificadoCisco.pdf).
+Para visualizar o certificado em formato PDF.
 
