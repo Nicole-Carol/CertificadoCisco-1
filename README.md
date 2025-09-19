@@ -167,3 +167,110 @@ Ex.:
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg">
 
 [Modelo GIT UNIBRAS](https://github.com/yggdrasilGit/templatesUNIBRAS) por [UNIBRAS](https://sejaunibras.com.br) está licenciado sob [CC BY 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+
+# UNIBRAS - Modelo de Documento para Projetos, Pesquisas e Disciplinas Específicas
+
+<p align="center">
+  <a href="https://sejaunibras.com.br"><img src="assets/unibras-logo.png" alt="UNIBRAS - União Brasileira de Desenvolvimento Social" border="0" width="70%" /></a>
+</p>
+
+---
+
+## 📌 Certificado de N1
+
+> Certificação Internacional de Competências em Hardware – Cisco Networking Academy.
+
+![status](https://img.shields.io/badge/status-concluído-brightgreen)
+
+---
+
+## 👥 Equipe de Autores e Participantes
+
+### 👩‍🎓 Aluna
+
+* **Nicole Caroline**
+
+### 👔 Docentes e Orientação
+
+* **Curso ofertado por:** Cisco Networking Academy  
+* **Direção:** Lynn Bloomer – Diretora Cisco Networking Academy  
+
+---
+
+## 🔬 1️⃣ Certificação Conquistada
+
+### 📝 Resumo
+
+> Certificado emitido pela **Cisco Networking Academy** atestando a conclusão do curso **Computer Hardware Basics**.  
+> O curso aborda os fundamentos de hardware de computadores, montagem, manutenção e noções de segurança de componentes físicos.  
+
+### 🎯 Palavras-chave
+
+Hardware, Computadores, Manutenção, Cisco, Networking Academy.
+
+### 🕹️ Conteúdo Abordado
+
+* Conceitos básicos de hardware.  
+* Componentes internos e externos de um computador.  
+* Montagem e manutenção preventiva.  
+* Princípios de segurança no manuseio de hardware.  
+
+### ⚡️ Metodologia
+
+* Aulas teóricas online pela plataforma da Cisco.  
+* Exercícios práticos de fixação.  
+* Avaliação final com certificação digital.  
+
+### 📊 Resultados e Discussões
+
+* Certificação de conclusão com êxito.  
+* Validação de competências técnicas em hardware reconhecida pela Cisco.  
+
+### 🏁 Conclusões
+
+* Competências adquiridas fortalecem a base para estudos em redes e suporte técnico.  
+* Documento válido internacionalmente, com aplicação acadêmica e profissional.  
+
+---
+
+## 💻 2️⃣ Informações Técnicas
+
+### 📄 Identificação
+
+* **Disciplina / Curso:** Computer Hardware Basics  
+* **Instituição:** Cisco Networking Academy  
+* **Aluna:** Nicole Caroline  
+* **Data de Conclusão:** 17/09/2025  
+
+### 🗺️ Especificações do Certificado
+
+* **Modalidade:** Curso Online  
+* **Carga horária:** Definida pelo programa Cisco Networking Academy  
+* **Reconhecimento:** Internacional, com validação pela Cisco.  
+
+### 📷 Evidências Visuais
+
+![Certificado Cisco Networking Academy](assets/certificado-cisco.png)
+
+---
+
+## ⚡️ Critérios de Avaliação
+
+* Participação nas atividades propostas.  
+* Realização de quizzes e atividades práticas.  
+* Aprovação em avaliação final.  
+
+---
+
+## 📅 Histórico de Versões
+
+* **v1.0.0** - 17/09/2025 — Registro da certificação de Nicole Caroline em *Computer Hardware Basics*.
+
+---
+
+## 📋 Licença e Atribuições
+
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg">
+
+[Modelo GIT UNIBRAS](https://github.com/yggdrasilGit/templatesUNIBRAS) por [UNIBRAS](https://sejaunibras.com.br) está licenciado sob [CC BY 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+
